@@ -57,7 +57,7 @@ if (isset($response) && !empty($response)) {
 if($_SERVER['REQUEST_METHOD'] == "GET")
 {
 ?>
-<br />Hệ thống kiểm tra sự tồn tại của tên miền dựa trên 1 số API server được cung cấp sẵn. Script này hoàn toàn miễn phí, các bạn có thể download nó từ Github tại đây.
+<br />Hệ thống kiểm tra sự tồn tại của tên miền dựa trên 1 số API server được cung cấp sẵn. Script này hoàn toàn miễn phí, các bạn có thể download nó từ Github tại đây: <a href="https://github.com/nguyenanhung/Script-check-Domain" target="_blank" title="Script check Domain">Script check Domain</a>
 <?php
 }
 ?>
